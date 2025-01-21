@@ -12,7 +12,7 @@
   </a>
 </p>
 
-As a seasoned software engineer with over 15 years of experience, my expertise lies in a powerful combination of cutting-edge technologies, including React, Python, and advanced Artificial Intelligence frameworks.
+As a seasoned software engineer with deep experience, my expertise lies in a powerful combination of cutting-edge technologies, including React, Python, and advanced Artificial Intelligence frameworks.
 <br/>
 <br/>
 <br/>
